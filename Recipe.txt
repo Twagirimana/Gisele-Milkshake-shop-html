@@ -1,0 +1,20 @@
+<section>
+	<h3>S'mores Milkshake Recipe</h3>
+<!-- We are the Best -->
+	<h4>Ingredients</h4>
+	<ul>
+		<li>3 scoops of vanilla ice cream</li>
+		<li>Splash of milk</li>
+		<li>1 handful mini marshmallows</li>
+		<li>1 handful crumbled graham crackers</li>
+	</ul>
+	<h4>Shake Instructions</h4>
+	<ol>
+		<li>Prepare the ingredients and equipment.</li>
+		<li>Blend vanilla ice cream,<br>With marshmallows and graham crackers.</li>
+		<li>Pour into a chocolate syrup-swirled glass.</li> 
+		<li>Top with toasted marshmallows(Blast them under the broiler for 3 minutes),<br>a graham cracker, and a piece of chocolate for full experience.</li>
+		<li> Cool and enjoy.</li>
+	</ol>
+</section>
+<a href="Order.html">Make your order</a>

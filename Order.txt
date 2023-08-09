@@ -1,0 +1,33 @@
+<a href="index.html">home</a>
+<p>
+<Table border="1">
+	<tr>
+		<th>Shakes Type</th>
+		<th>Price</th>
+	</tr>
+	<tr>
+		<td>Strawberry milkshake</td>
+		<th>$4.50</th> 
+	</tr>
+		<td>Lemon Pie milkshake</td>
+		<th>$3.00</th> 
+	</tr>
+		<td>Peanut Butter & Jelly Milkshake</td>
+		<th>$6.00</th> 
+	</tr>
+		<td>S'mores Milkshake</td>
+		<th>$6.00</th> 
+	</tr>
+</table>
+</p>
+<form>
+   <label>Shake Type</label>
+   <input name="Shake Type"><br>
+   <label>Quality</label>
+   <input name="Quality"><br>
+   <label>Delivery Date</label>
+   <input name="Date" Type="date"><br>
+   <button>Order</button>
+</form>
+
+	
